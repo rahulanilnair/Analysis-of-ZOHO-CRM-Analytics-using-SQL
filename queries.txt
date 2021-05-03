@@ -25,4 +25,11 @@
 	p.CampaignID = c.CAMPAIGNID AND
 	l.LeadOwner= 'Harold Pawlan';
 
-
+6.  Show the names of subjects which have appeared at least twice.
+	select distinct q.subject from quotes as q 
+	where q.Subject in 
+	(
+    		select distinct Subject from quotes
+    		group by Subject
+    		having count(subject) > 1
+   	 );
