@@ -33,3 +33,9 @@
     		group by Subject
     		having count(subject) > 1
    	 );
+
+7.Show the names of ProductName in ascending order along with Quantity,NetTotal and ProductID.
+         SELECT p.ProductName,p.Quantity,p.NetTotal,pu.PURCHASEORDERID from purchase_order_line_items p 
+         JOIN purchase_orders pu  
+         ON (p.NetTotal=pu.SubTotal) 
+         ORDER BY p.ProductName ASC;
