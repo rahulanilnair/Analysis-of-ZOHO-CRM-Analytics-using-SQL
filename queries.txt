@@ -15,4 +15,14 @@
 	select  sum(cast(replace(GrandTotal, ',', '') as int))  as TotalGrandTotal from sales_orders
 	where status = 'created';
 
+5. Show unique campaign names where the lead to the potential was given by Harold Pawlan
+	select distinct  c.campaignname from 
+	campaigns c,
+	potentials p,
+	leads l 
+	where 
+	l.LEADID = p.LEADID AND
+	p.CampaignID = c.CAMPAIGNID AND
+	l.LeadOwner= 'Harold Pawlan';
+
 
