@@ -1,1 +1,8 @@
 //
+1.Sales Cycle Time(Age Tier)vs Sales Order Count:
+	SELECT AGETIER,COUNT(SALESORDERID),STATUS FROM sales_orders GROUP BY AGETIER,STATUS HAVING STATUS<>'Created';
+
+2.Which Invoice Status had the lowest Grand Total ? 
+  SELECT InvoiceStatus,SUM(GrandTotal) FROM Invoices Group By InvoiceStatus HAVING InvoiceStatus<>'Invoice Status' ORDER BY InvoiceStatus LIMIT 1;
+  
+3.
