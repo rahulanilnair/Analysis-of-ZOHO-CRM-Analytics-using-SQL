@@ -5,4 +5,14 @@
 2.Which Invoice Status had the lowest Grand Total ? 
   SELECT InvoiceStatus,SUM(GrandTotal) FROM Invoices Group By InvoiceStatus HAVING InvoiceStatus<>'Invoice Status' ORDER BY InvoiceStatus LIMIT 1;
   
-3.
+3. Show the name of users in ascending order who may or may not have an invoice .
+	select distinct u.LastName as 'Name'  from invoices i 
+	right join users u on u.USER_ID = i.InvoiceOwnerId
+	where i.InvoiceStatus = 'cancelled'
+	order by u.LastName;
+	
+4. Getting the grand total where status is created
+	select  sum(cast(replace(GrandTotal, ',', '') as int))  as TotalGrandTotal from sales_orders
+	where status = 'created';
+
+
