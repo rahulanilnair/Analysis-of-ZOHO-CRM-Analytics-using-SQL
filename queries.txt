@@ -1,21 +1,26 @@
 //
-1.Sales Cycle Time(Age Tier)vs Sales Order Count:
+1. Show the contactid,lastname,contactowner from contacts having lastname as young and order by contactid:
+     SELECT contactid,lastname,contactowner
+     from contacts 
+     having lastname='Young'
+     ORDER BY CONTACTID
+2.Sales Cycle Time(Age Tier)vs Sales Order Count:
 	SELECT AGETIER,COUNT(SALESORDERID),STATUS FROM sales_orders GROUP BY AGETIER,STATUS HAVING STATUS<>'Created';
 
-2.Which Invoice Status had the lowest Grand Total ? 
+3.Which Invoice Status had the lowest Grand Total ? 
   SELECT InvoiceStatus,SUM(GrandTotal) FROM Invoices Group By InvoiceStatus HAVING InvoiceStatus<>'Invoice Status' ORDER BY InvoiceStatus LIMIT 1;
   
-3. Show the name of users in ascending order who may or may not have an invoice .
+4. Show the name of users in ascending order who may or may not have an invoice .
 	select distinct u.LastName as 'Name'  from invoices i 
 	right join users u on u.USER_ID = i.InvoiceOwnerId
 	where i.InvoiceStatus = 'cancelled'
 	order by u.LastName;
 	
-4. Getting the grand total where status is created
+5. Getting the grand total where status is created
 	select  sum(cast(replace(GrandTotal, ',', '') as int))  as TotalGrandTotal from sales_orders
 	where status = 'created';
 
-5. Show unique campaign names where the lead to the potential was given by Harold Pawlan
+6. Show unique campaign names where the lead to the potential was given by Harold Pawlan
 	select distinct  c.campaignname from 
 	campaigns c,
 	potentials p,
@@ -25,7 +30,7 @@
 	p.CampaignID = c.CAMPAIGNID AND
 	l.LeadOwner= 'Harold Pawlan';
 
-6.  Show the names of subjects which have appeared at least twice.
+7.  Show the names of subjects which have appeared at least twice.
 	select distinct q.subject from quotes as q 
 	where q.Subject in 
 	(
@@ -34,8 +39,9 @@
     		having count(subject) > 1
    	 );
 
-7.Show the names of ProductName in ascending order along with Quantity,NetTotal and ProductID.
+8.Show the names of ProductName in ascending order along with Quantity,NetTotal and ProductID.
          SELECT p.ProductName,p.Quantity,p.NetTotal,pu.PURCHASEORDERID from purchase_order_line_items p 
          JOIN purchase_orders pu  
          ON (p.NetTotal=pu.SubTotal) 
          ORDER BY p.ProductName ASC;
+	
