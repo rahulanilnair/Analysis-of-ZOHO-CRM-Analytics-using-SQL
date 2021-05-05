@@ -30,7 +30,7 @@ Tutorial for downloading xampp:-https://www.youtube.com/watch?v=N6ENnaRotmo
 
 8.Import the dbms(1).sql file in this database.
 
-9.You are ready to execute the queries.
+9.Congrats! You are ready to execute the queries.
 
 ![image](https://user-images.githubusercontent.com/66904708/117148858-4491a600-add4-11eb-8f0b-53daf9bbb81f.png)
 
