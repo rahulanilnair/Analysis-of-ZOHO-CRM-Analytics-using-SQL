@@ -68,4 +68,28 @@
 	COUNT(CASE WHEN STATUS<>'Closed' AND AgeTier='2. 61 - 120 days' THEN 1 END) AS II 
 	from cases GROUP BY CaseOwner HAVING CaseOwner<>'Case Owner';
 	
-13.
+13.Show the Total Number of Leads,Converted Leads and Conversion % for each Lead Source.
+	SELECT LeadSource,COUNT(LEADID) AS LEADSCOUNT,COUNT(CASE WHEN CONVERTED='YES' THEN 1 END) 
+	AS CONVERTEDLEAD,(COUNT(CASE WHEN CONVERTED='YES' THEN 1 END)*100/COUNT(LEADID)) AS 
+	CONVERSIONPERCENT from leads GROUP BY LeadSource HAVING LeadSource<>'Lead Source';
+	
+14.Show the User id,name and the number of tasks done by each Vendor Owner
+	SELECT u.USER_ID,v.VendorOwner,COUNT(t.TaskOwner) from users u 
+	JOIN vendors v ON (u.LastName=v.VendorOwner) 
+	JOIN tasks t ON (t.TaskOwner=v.VendorOwner) 
+	GROUP BY v.VendorOwner HAVING v.VendorOwner<>'Vendor Owner';
+	
+15.Show the average duration for each need stage for all open potentials.
+	SELECT Stage,AVG(CASE WHEN ForecastType='Open' THEN AgeInDays ELSE 0 END) 
+	AS AVGDURATION FROM potentials GROUP BY Stage HAVING Stage<>'Stage';
+	
+16.Count of open potentials by stage.
+	SELECT STAGE,COUNT(CASE WHEN ForecastType='Open' THEN 1 END) 
+	AS OPENPOTENTIAL from potentials GROUP BY STAGE HAVING STAGE<>'Stage';
+	
+17.Show the total no. of leads,converted leads,won and lost deals for each owner.
+	SELECT l.LeadOwner,COUNT(l.LEADID) AS LEADCOUNT,COUNT(CASE WHEN l.CONVERTED='YES' THEN 1 END) AS CONVERTEDLEAD,
+	COUNT(CASE WHEN p.ForecastType='Won' THEN 1 END) AS WONDEAL,
+	COUNT(CASE WHEN p.ForecastType='Lost' THEN 1 END) AS LOSTDEAL 
+	from leads l JOIN potentials p ON (l.LeadOwner=p.PotentialOwner) 
+	GROUP BY l.LeadOwner HAVING l.LeadOwner<>'Lead Owner';
