@@ -337,36 +337,84 @@ CaseOwner
 Case Owner	
 Lazar Mathew	
 Augustine Paul	
-Lazar Mathew	
 Pete Zachariah	
 Thomas Mondrake	
 Tina Thomas	
 David Love	
-Thomas Mondrake	
-Thomas Mondrake	
-Thomas Mondrake	
-Thomas Mondrake	
 Harold Pawlan	
-David Love	
 Jasmine Frank	
-Pete Zachariah	
-Lazar Mathew	
 Roger Terrence	
-Tina Thomas	
 Santa Cruz Clara	
-Harold Pawlan	
-Jasmine Frank	
-Harold Pawlan	
-Augustine Paul	
-Thomas Mondrake	
+Rozario Diego	
+
 
 24.
 TaskOwner	
 Rozario Diego	
 Harold Pawlan	
 
+25.
+LastName	
+Santa Cruz Clara	
+Tina Thomas	
 
+26.
+Type	ForecastType	AgeInDays	
+New Business	Open	158	
+New Business	Open	39	
+New Business	Open	106	
+New Business	Open	88	
+New Business	Open	38	
+New Business	Open	170	
+New Business	Open	96	
+New Business	Open	26	
+New Business	Open	80	
+New Business	Open	134	
+New Business	Open	143	
+New Business	Open	74	
+New Business	Open	190	
+New Business	Won	134	
+New Business	Open	25	
+New Business	Open	68	
+New Business	Open	212	
+New Business	Open	65	
+New Business	Open	108	
+New Business	Open	195	
+New Business	Open	97	
+New Business	Open	109	
+New Business	Open	94	
+New Business	Open	48	
+New Business	Open	65	
+...[Truncated]
 
+27.
+TASKID	CallStartTime	
+TASKID	Call Start Time	
+10000109	2021-04-14 07:03:00	
+7000272	2021-04-14 07:03:00	
+4000372	2021-04-14 07:03:00	
+5000233	2021-04-14 07:03:00	
+10000110	2021-04-14 07:03:00	
+10000272	2021-04-14 07:03:00	
+8000109	2021-04-14 07:03:00	
+1000109	2021-04-14 07:03:00	
+5000372	2021-04-14 07:03:00	
+6000233	2021-04-14 07:03:00	
+1000110	2021-04-14 07:03:00	
+8000110	2021-04-14 07:03:00	
+9000372	2021-04-14 07:03:00	
+10000233	2021-04-14 07:03:00	
+3000372	2021-04-14 07:03:00	
+3000345	2021-04-14 07:03:00	
+10000372	2021-04-14 07:03:00	
+6000272	2021-04-14 07:03:00	
+2000233	2021-04-14 07:03:00	
+5000272	2021-04-14 07:03:00	
+2000272	2021-04-14 07:03:00	
+1000272	2021-04-14 07:03:00	
+3000272	2021-04-14 07:03:00	
+4000272	2021-04-14 07:03:00	
+...[Truncated]
 
 
 
