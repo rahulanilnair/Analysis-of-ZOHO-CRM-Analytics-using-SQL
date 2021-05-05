@@ -1,0 +1,111 @@
+CAMPAIGNID,Campaign Name,Type,Status,Created Time,Modified Time,Start Date,End Date,Expected Revenue,Budgeted Cost,Actual Cost
+24000011,Campaign All users - Except Signedup,Conference,Planning,2021-04-25,2021-04-16,2021-04-25,2021-05-05,$342.09K,$115.00K,$141.56K
+24000039,Campaign Dashboard - Free,Email,Planning,2021-04-24,2021-04-04,2021-04-24,2021-05-08,"$1,117.10K",$273.64K,$357.80K
+24000049,Campaign Dashboard - Web,Advertisement,Planning,2021-04-22,2021-04-16,2021-04-22,2021-05-11,$48.22K,$5.70K,$6.43K
+24000001,Campaign Ad Group #1 (Txt ads),Partners,Planning,2021-04-22,2021-04-16,2021-04-22,2021-05-04,$78.78K,$65.83K,$74.53K
+24000033,Campaign Dashboard - 2,Conference,Planning,2021-04-21,2021-04-15,2021-04-21,2021-05-02,$16.72K,$2.38K,$2.52K
+24000069,Campaign Executive Dashboard,Public Relations,Planning,2021-04-21,2021-04-02,2021-04-21,2021-04-28,"$1,498.22K","$1,053.57K","$1,362.90K"
+24000101,Campaign Report,Telemarketing,Planning,2021-04-21,2021-04-14,2021-04-21,2021-05-11,$34.20K,$4.56K,$4.99K
+24000037,Campaign Dashboard - Business,Others,Planning,2021-04-20,2021-04-15,2021-04-20,2021-05-12,$671.34K,$34.30K,$36.10K
+24000072,Campaign Free Dashboard Tool,Email,Planning,2021-04-18,2021-04-05,2021-04-18,2021-04-30,"$1,568.87K","$1,487.39K","$1,696.05K"
+24000015,Campaign BI/Reporting - Text Ads,Direct mail,Planning,2021-04-18,2021-03-26,2021-04-18,2021-05-09,"$1,101.72K",$484.67K,$603.34K
+24000089,Campaign LP - Rpting Software,Telemarketing,Planning,2021-04-18,2021-03-30,2021-04-18,2021-05-13,$20.00K,$2.90K,$3.94K
+24000061,Campaign Dashboards - examples,Telemarketing,Planning,2021-04-16,2021-04-15,2021-04-16,2021-05-05,$168.22K,$64.68K,$75.83K
+24000065,Campaign Dashboards - reporting,Conference,Planning,2021-04-16,2021-04-09,2021-04-16,2021-05-06,$589.76K,$468.65K,$653.53K
+24000099,Campaign Pivoting,Advertisement,Planning,2021-04-16,2021-03-24,2021-04-16,2021-04-30,"$1,206.83K","$1,011.81K","$1,034.78K"
+24000058,Campaign Dashboards - business,Partners,Planning,2021-04-15,2021-04-13,2021-04-15,2021-04-26,$239.62K,$26.09K,$35.23K
+24000092,Campaign Make Dashboards,Conference,Planning,2021-04-15,2021-04-04,2021-04-15,2021-04-30,$261.71K,$200.87K,$211.34K
+24000073,Campaign Free Reporting,Partners,Planning,2021-04-15,2021-03-26,2021-04-15,2021-05-05,$245.39K,$87.08K,$90.20K
+24000045,Campaign Dashboard - Sales,Conference,Planning,2021-04-14,2021-03-19,2021-04-14,2021-04-29,$524.88K,$85.88K,$99.47K
+24000097,Campaign Online Business Intelligence,Public Relations,Planning,2021-04-14,2021-04-06,2021-04-14,2021-05-12,"$1,612.42K","$1,427.97K","$1,593.61K"
+24000000,Campaign Ad Group #1,Advertisement,Planning,2021-04-14,2021-04-08,2021-04-14,2021-05-11,$338.46K,$358.04K,$453.01K
+24000048,Campaign Dashboard - Tools,Webinar,Planning,2021-04-12,2021-04-06,2021-04-12,2021-04-30,$647.81K,$331.63K,$408.61K
+24000091,Campaign LP - Web-based Rpting,Public Relations,Planning,2021-04-10,2021-03-20,2021-04-10,2021-05-01,$12.77K,$9.08K,$10.00K
+24000002,Campaign Ad Group #2 (Img ads),Referral Program,Planning,2021-04-09,2021-04-01,2021-04-09,2021-05-13,$27.74K,$15.12K,$20.29K
+24000059,Campaign Dashboards - business intelligence,Public Relations,Planning,2021-04-08,2021-03-12,2021-04-08,2021-05-10,"$1,989.22K",$298.77K,$399.33K
+24000025,Campaign Business Intelligence Tool,Conference,Planning,2021-04-06,2021-04-04,2021-04-06,2021-05-09,$31.28K,$15.92K,$18.74K
+24000068,Campaign Database Reporting,Referral Program,Planning,2021-04-06,2021-04-03,2021-04-06,2021-05-03,$209.61K,$213.00K,$214.43K
+24000081,Campaign LP - BizIntel Tool Online,Conference,Inactive,2021-03-17,2021-02-22,2021-03-17,2021-05-05,$202.47K,$74.27K,$83.41K
+24000029,Campaign Create Dashboards,Public Relations,Complete,2021-01-26,2021-01-25,2021-01-26,2021-04-18,$303.25K,$291.90K,$311.76K
+24000104,Campaign Reporting Software,Advertisement,Complete,2020-12-03,2020-11-11,2020-12-03,2021-01-07,$309.67K,$47.31K,$50.24K
+24000105,Campaign Sales,Partners,Inactive,2020-10-26,2020-10-10,2020-10-26,2021-05-11,$26.65K,$17.44K,$21.09K
+24000031,Campaign Dashboard,Conference,Inactive,2020-10-17,2020-10-14,2020-10-17,2021-05-03,$437.48K,$365.48K,$411.55K
+24000106,Campaign Sales #2,Conference,Active,2020-10-11,2020-09-26,2020-10-11,2021-05-07,$261.65K,$145.87K,$160.44K
+24000032,Campaign Dashboard - 1,Conference,Complete,2020-10-02,2020-09-17,2020-10-02,2021-02-28,$857.34K,$225.19K,$303.44K
+24000066,Campaign Dashboards - software,Email,Active,2020-09-29,2020-09-09,2020-09-29,2021-05-05,$923.50K,$320.36K,$339.66K
+24000034,Campaign Dashboard - 3,Partners,Complete,2020-09-12,2020-08-26,2020-09-12,2021-02-28,"$1,084.85K",$719.22K,$794.42K
+24000107,Campaign Sales #3,Email,Inactive,2020-08-31,2020-08-05,2020-08-31,2021-05-15,"$1,005.28K",$161.89K,$211.55K
+24000108,Campaign Sales #4,Telemarketing,Complete,2020-08-28,2020-08-01,2020-08-28,2021-03-27,"$1,688.41K","$1,044.93K","$1,046.17K"
+24000067,Campaign Data Analysis,Conference,Active,2020-08-24,2020-08-05,2020-08-24,2021-05-08,$634.95K,$404.85K,$419.72K
+24000035,Campaign Dashboard - Analysis,Email,Inactive,2020-08-16,2020-08-11,2020-08-16,2021-05-06,"$1,757.04K",$11.99K,$12.14K
+24000036,Campaign Dashboard - BI,Email,Active,2020-07-03,2020-06-29,2020-07-03,2021-05-05,$362.83K,$226.67K,$245.66K
+24000109,Campaign Sales #5,Direct mail,Inactive,2020-03-28,2020-03-03,2020-03-28,2021-04-25,"$1,815.23K","$1,034.74K","$1,296.17K"
+24000070,Campaign Free Dashboard,Conference,Complete,2020-03-06,2020-02-11,2020-03-06,2021-02-05,$592.86K,$366.67K,$467.02K
+24000110,Campaign Sales Analysis,Telemarketing,Complete,2020-02-10,2020-01-28,2020-02-10,2021-03-13,$714.68K,$553.18K,$618.01K
+24000038,Campaign Dashboard - Executive,Public Relations,Active,2020-01-02,2019-12-20,2020-01-02,2021-04-29,"$1,509.64K",$644.91K,$656.00K
+24000071,Campaign Free Dashboard Software,Public Relations,Complete,2019-12-17,2019-12-12,2019-12-17,2021-03-06,"$1,528.86K",$889.26K,$981.02K
+24000074,Campaign Goog Analytics,Referral Program,Active,2019-11-02,2019-10-31,2019-11-02,2021-04-29,$201.12K,$171.46K,$191.27K
+24000030,Campaign DB Reporting,Partners,Active,2019-10-29,2019-10-10,2019-10-29,2021-05-06,$778.51K,$334.29K,$334.49K
+24000103,Campaign Reporting,Direct mail,Complete,2019-10-27,2019-10-05,2019-10-27,2021-04-07,$153.47K,$111.91K,$147.15K
+24000064,Campaign Dashboards - online,Webinar,Active,2019-10-18,2019-09-23,2019-10-18,2021-05-12,"$1,117.63K",$261.22K,$349.49K
+24000041,Campaign Dashboard - Metrics,Referral Program,Inactive,2019-09-23,2019-09-12,2019-09-23,2021-05-14,$445.07K,$720.08K,$819.65K
+24000075,Campaign Google AdWords,Partners,Active,2019-09-18,2019-09-07,2019-09-18,2021-05-05,$795.25K,$630.51K,$711.88K
+24000040,Campaign Dashboard - KPI,Referral Program,Complete,2019-09-18,2019-09-16,2019-09-18,2019-11-10,"$1,492.94K",$127.72K,$164.89K
+24000076,Campaign Google Web Analytics,Public Relations,Active,2019-09-17,2019-08-31,2019-09-17,2021-05-08,$694.88K,$199.64K,$270.07K
+24000042,Campaign Dashboard - Online,Conference,Active,2019-09-08,2019-08-19,2019-09-08,2021-05-01,"$1,221.00K",$860.81K,"$1,119.53K"
+24000043,Campaign Dashboard - Open,Direct mail,Complete,2019-08-31,2019-08-26,2019-08-31,2020-09-01,$219.12K,$0.65K,$0.80K
+24000077,Campaign Home Page,Public Relations,Inactive,2019-08-04,2019-07-12,2019-08-04,2021-05-11,"$1,182.40K","$1,025.17K","$1,091.71K"
+24000044,Campaign Dashboard - Reporting,Direct mail,Active,2019-07-06,2019-06-10,2019-07-06,2021-04-30,"$1,578.70K",$250.49K,$339.39K
+24000078,Campaign KPI Dashboards,Email,Active,2019-07-05,2019-06-30,2019-07-05,2021-05-05,"$2,113.04K","$1,061.38K","$1,209.48K"
+24000079,Campaign LP - BI Software,Advertisement,Inactive,2019-06-29,2019-06-15,2019-06-29,2021-04-27,$209.68K,$150.36K,$172.71K
+24000080,Campaign LP - BI Tool Online,Public Relations,Complete,2019-06-24,2019-05-30,2019-06-24,2021-04-20,"$1,047.82K",$343.25K,$476.44K
+24000046,Campaign Dashboard - Software,Direct mail,Complete,2019-06-21,2019-06-02,2019-06-21,2021-04-18,$689.61K,$112.58K,$140.22K
+24000082,Campaign LP - Free BI,Referral Program,Inactive,2019-06-17,2019-06-04,2019-06-17,2021-05-10,$527.58K,$127.48K,$128.69K
+24000047,Campaign Dashboard - Softwareold,Partners,Active,2019-06-06,2019-05-18,2019-06-06,2021-05-10,$292.00K,$182.86K,$252.57K
+24000083,Campaign LP - Free Rpting,Partners,Active,2019-05-21,2019-04-29,2019-05-21,2021-05-03,$509.87K,$405.82K,$413.36K
+24000050,Campaign Dashboard Templates,Email,Inactive,2019-05-16,2019-05-05,2019-05-16,2021-05-05,$561.11K,$240.42K,$241.68K
+24000084,Campaign LP - On-Demand BI,Advertisement,Active,2019-05-12,2019-04-29,2019-05-12,2021-04-29,$533.69K,$27.88K,$29.75K
+24000085,Campaign LP - Online Rpting Tool,Webinar,Inactive,2019-05-05,2019-04-08,2019-05-05,2021-05-13,$526.08K,$246.44K,$333.11K
+24000051,Campaign Dashboards,Public Relations,Complete,2019-05-04,2019-04-29,2019-05-04,2020-05-21,$681.87K,$292.77K,$408.79K
+24000086,Campaign LP - Pivoting,Referral Program,Complete,2019-05-04,2019-04-27,2019-05-04,2020-05-02,$36.93K,$7.36K,$9.34K
+24000088,Campaign LP - Rpting (Open Match),Partners,Inactive,2019-03-31,2019-03-06,2019-03-31,2021-05-01,$599.56K,$26.14K,$31.13K
+24000052,Campaign Dashboards #1,Telemarketing,Active,2019-03-24,2019-03-02,2019-03-24,2021-05-01,"$1,654.02K",$658.52K,$826.73K
+24000087,Campaign LP - Reporting (Open Match),Email,Active,2019-03-23,2019-03-08,2019-03-23,2021-05-10,$943.92K,$20.25K,$28.09K
+24000053,Campaign Dashboards #2,Conference,Active,2019-03-14,2019-03-09,2019-03-14,2021-05-05,"$1,443.33K",$363.81K,$436.15K
+24000090,Campaign LP - Rpting Tool Online,Direct mail,Active,2019-03-07,2019-02-13,2019-03-07,2021-05-12,"$1,538.31K",$420.17K,$550.24K
+24000020,Campaign Business Intelligence Platform,Others,Active,2019-03-06,2019-02-26,2019-03-06,2021-05-04,$85.07K,$63.07K,$79.97K
+24000094,Campaign OEM Reporting,Advertisement,Complete,2019-03-03,2019-02-16,2019-03-03,2021-03-24,$868.64K,$237.95K,$241.21K
+24000054,Campaign Dashboards - 2,Public Relations,Active,2019-02-28,2019-02-10,2019-02-28,2021-05-07,"$1,268.18K",$815.65K,"$1,044.23K"
+24000021,Campaign Business Intelligence Service,Partners,Active,2019-02-19,2019-02-13,2019-02-19,2021-05-04,$798.06K,$39.87K,$50.05K
+24000093,Campaign Managed Placements,Direct mail,Active,2019-02-16,2019-01-25,2019-02-16,2021-04-27,$272.83K,$356.91K,$490.54K
+24000057,Campaign Dashboards - best,Referral Program,Complete,2019-02-02,2019-01-09,2019-02-02,2021-02-09,$201.69K,$124.20K,$165.30K
+24000055,Campaign Dashboards - Image Ads,Referral Program,Inactive,2019-02-01,2019-01-18,2019-02-01,2021-05-09,$276.80K,$135.67K,$192.96K
+24000056,Campaign Dashboards - Text Ads,Direct mail,Inactive,2019-01-28,2019-01-09,2019-01-28,2021-05-01,$234.82K,$223.34K,$289.26K
+24000095,Campaign OEM Reporting #2,Email,Active,2019-01-24,2019-01-13,2019-01-24,2021-05-07,"$1,690.70K","$1,090.07K","$1,282.89K"
+24000096,Campaign OEM Reporting #3,Referral Program,Complete,2019-01-22,2019-01-14,2019-01-22,2021-02-12,$26.24K,$24.71K,$27.79K
+24000022,Campaign Business Intelligence Services,Advertisement,Active,2019-01-20,2019-01-13,2019-01-20,2021-05-06,$723.90K,$629.56K,$686.43K
+24000023,Campaign Business Intelligence Software,Partners,Complete,2019-01-17,2018-12-31,2019-01-17,2021-02-11,"$1,373.33K","$1,139.20K","$1,271.78K"
+24000098,Campaign Pipeline,Public Relations,Inactive,2018-12-23,2018-12-08,2018-12-23,2021-05-12,$470.86K,$168.52K,$207.24K
+24000060,Campaign Dashboards - business software,Direct mail,Inactive,2018-12-15,2018-12-04,2018-12-15,2021-04-28,$827.24K,$13.42K,$16.38K
+24000024,Campaign Business Intelligence Solution,Email,Complete,2018-12-14,2018-12-09,2018-12-14,2021-01-29,$721.46K,$242.44K,$333.32K
+24000026,Campaign Business Intelligence Tools,Webinar,Active,2018-11-29,2018-11-03,2018-11-29,2021-05-03,"$1,453.23K",$703.69K,$919.53K
+24000028,Campaign Cloud BI,Public Relations,Active,2018-11-14,2018-10-19,2018-11-14,2021-05-06,$367.01K,$0.52K,$0.66K
+24000062,Campaign Dashboards - excel,Others,Active,2018-11-08,2018-11-03,2018-11-08,2021-04-27,"$1,168.30K",$158.13K,$196.07K
+24000063,Campaign Dashboards - kpi,Telemarketing,Inactive,2018-11-08,2018-10-19,2018-11-08,2021-04-29,$194.31K,$116.30K,$150.38K
+24000100,Campaign Project Dashboard,Webinar,Complete,2018-11-04,2018-10-26,2018-11-04,2020-12-06,$799.54K,$345.89K,$407.20K
+24000102,Campaign Report Software,Webinar,Inactive,2018-10-29,2018-10-20,2018-10-29,2021-05-02,$990.50K,$151.16K,$209.85K
+24000027,Campaign Business Reports,Referral Program,Complete,2018-10-29,2018-10-26,2018-10-29,2020-12-19,"$1,205.83K",$899.04K,"$1,023.99K"
+24000010,Campaign Adwords Reports,Public Relations,Active,2018-08-15,2018-07-24,2018-08-15,2021-04-27,"$1,178.72K",$357.17K,$363.37K
+24000008,Campaign Adwords Report,Email,Complete,2018-08-05,2018-08-04,2018-08-05,2019-03-21,"$2,868.11K",$919.45K,"$1,260.90K"
+24000014,Campaign BI/Reporting - Image Ads,Webinar,Inactive,2018-07-16,2018-06-17,2018-07-16,2021-05-09,$326.59K,$66.13K,$90.77K
+24000018,Campaign Business Dashboard,Advertisement,Complete,2018-07-16,2018-07-06,2018-07-16,2019-04-20,$221.45K,$106.17K,$127.95K
+24000004,Campaign Ad hoc Reporting,Partners,Complete,2018-07-12,2018-07-04,2018-07-12,2019-05-21,$269.18K,$261.88K,$349.45K
+24000003,Campaign Ad Hoc Reporting,Advertisement,Complete,2018-07-10,2018-06-15,2018-07-10,2019-05-26,$205.00K,$105.75K,$108.22K
+24000016,Campaign Build Dashboard,Conference,Complete,2018-07-10,2018-06-13,2018-07-10,2019-04-16,$888.68K,$555.65K,$668.75K
+24000012,Campaign Analytics,Public Relations,Inactive,2018-07-09,2018-06-28,2018-07-09,2021-05-12,$350.10K,$202.01K,$283.26K
+24000007,Campaign Adword,Partners,Active,2018-07-05,2018-07-01,2018-07-05,2021-05-09,"$1,612.61K",$214.57K,$237.36K
+24000017,Campaign Build Dashboards,Direct mail,Active,2018-07-04,2018-06-28,2018-07-04,2021-04-27,$15.70K,$2.89K,$3.89K
+24000019,Campaign Business Intelligence,Public Relations,Inactive,2018-07-03,2018-07-01,2018-07-03,2021-05-05,$833.00K,$547.91K,$598.39K
+24000005,Campaign AdWords,Email,Active,2018-07-02,2018-06-06,2018-07-02,2021-05-04,$762.04K,$37.91K,$52.97K
+24000009,Campaign Adwords Reporting,Telemarketing,Active,2018-07-01,2018-06-08,2018-07-01,2021-04-28,"$2,055.00K",$985.86K,"$1,181.93K"
+24000006,Campaign AdWords Software,Webinar,Inactive,2018-06-30,2018-06-14,2018-06-30,2021-05-03,$322.80K,$305.59K,$328.51K
