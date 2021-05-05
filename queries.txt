@@ -45,3 +45,16 @@
          ON (p.NetTotal=pu.SubTotal) 
          ORDER BY p.ProductName ASC;
 	
+9.Show the LEADID,LeadSource,their status and individual counts for users with LEADID Between 1000 and 4000
+	SELECT LEADID,LeadSource,LeadStatus,COUNT(LeadStatus) from leads 
+	GROUP BY LeadSource,LeadStatus 
+	HAVING LEADID>='1000' AND LEADID<='4000';
+	
+10.Give the Lead Source,number of Converted Leads and Leads involved in Activities for each Lead Source.
+	SELECT l.LeadSource,COUNT(CASE WHEN l.CONVERTED='YES' THEN 1 END) AS CONVERTED,
+	COUNT(CASE WHEN p.ActivitiesInvolved='Yes' THEN 1 END) AS INVOLVED FROM 
+	leads l JOIN potentials p ON 
+	(l.LEADID=p.LEADID) 
+	GROUP BY LeadSource HAVING LeadSource<>'Lead Source'
+	
+11.
