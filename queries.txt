@@ -93,3 +93,57 @@
 	COUNT(CASE WHEN p.ForecastType='Lost' THEN 1 END) AS LOSTDEAL 
 	from leads l JOIN potentials p ON (l.LeadOwner=p.PotentialOwner) 
 	GROUP BY l.LeadOwner HAVING l.LeadOwner<>'Lead Owner';
+
+18.Find status ,created time and discount  from sales orders where the tax is minimum.
+            SELECT Status,CreatedTime,Discount 
+            FROM sales_orders 
+            WHERE Tax= (SELECT MIN(Tax) 
+            FROM sales_orders)
+
+19.Find the status and maximum days to closed which are having maximum days of greater then 10 and group them according to case origin.
+           SELECT Status, MAX(DaysToClosed)
+           FROM cases
+           GROUP BY CaseOrigin
+           HAVING MAX(AgeInDays)>10;
+
+20.Find average, maximum, minimum and sum total of amount where name Starts with Lew.
+          SELECT AVG(Amount), MAX(Amount), MIN(Amount), SUM(Amount) 
+          FROM potentials 
+          WHERE PotentialName LIKE 'Lew%'
+ 
+21.Update all the records of sales_orders table by increasing 10% of their Tax.
+         UPDATE sales_orders 
+         SET Tax=1.1*Tax
+
+22.CHANGE accountOwnerId to 1000 FOR accountId between 2 and 10 IN account TABLE.
+          update accounts set accountOwnerId=1000 
+          where accountId BETWEEN 2 AND 10
+
+
+23.List the Case Owners names  not having age in days as 10,30, or 40.
+         SELECT CaseOwner FROM cases 
+         WHERE NOT AgeInDays='30'AND 
+         NOT AgeInDays='40'AND NOT AgeInDays='10';
+
+24.List names of those TaskOwners who  joined between 30 Aug 81 and 31 oct 81.
+         SELECT TaskOwner FROM tasks
+         WHERE DueDate 
+         BETWEEN '30-Aug81' AND '31-Oct-81'
+
+25.List employees whose name either start or end with ‘s’.
+         SELECT LastName FROM users
+         WHERE LastName LIKE 'S%' 
+         OR LastName LIKE '%S'
+
+26.Sort Potentials table in ascending order by LEADID and Type, ForecastType, AgeInDays and AgeTier.
+         SELECT Type,ForecastType,AgeInDays 
+         FROM potentials ORDER BY LEADID;
+
+
+27.Find the all  taskid and the call starttime  where accountid is in the range 1000 to 1500.
+          SELECT TASKID, CallStartTime FROM calls 
+          WHERE Callowner< ALL 
+          (SELECT Callowner FROM calls 
+          WHERE ACCOUNTID BETWEEN 1000 AND 1500)
+	 
+
