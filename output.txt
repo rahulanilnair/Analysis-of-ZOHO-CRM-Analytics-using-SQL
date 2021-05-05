@@ -1,3 +1,28 @@
+1.
+contactid	lastname	contactowner	
+2470	Young	David Love	
+2639	Young	David Love	
+2854	Young	Lazar Mathew	
+3071	Young	David Love	
+
+2.
+AGETIER	COUNT(SALESORDERID)	STATUS	
+1. 0 - 60 days	135	Approved	
+1. 0 - 60 days	125	Cancelled	
+1. 0 - 60 days	144	Delivered	
+2. 61 - 120 days	104	Approved	
+2. 61 - 120 days	124	Cancelled	
+2. 61 - 120 days	114	Delivered	
+3. 121 - 180 days	69	Approved	
+3. 121 - 180 days	60	Cancelled	
+3. 121 - 180 days	73	Delivered	
+4. 181 - 360 days	167	Approved	
+4. 181 - 360 days	130	Cancelled	
+4. 181 - 360 days	145	Delivered	
+5. Above 360 days	72	Approved	
+5. Above 360 days	52	Cancelled	
+5. Above 360 days	56	Delivered	
+Age Tier	1	Status	
 
 
 
