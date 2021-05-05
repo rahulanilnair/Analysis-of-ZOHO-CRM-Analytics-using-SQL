@@ -25,76 +25,351 @@ AGETIER	COUNT(SALESORDERID)	STATUS
 Age Tier	1	Status	
 
 
+3.
+Approved	3661841	
 
-3. 
-Name
-Augustine Paul
-David Love
-Harold Pawlan
-Jasmine Frank
-Lazar Mathew
-Pete Zachariah
-Roger Terrence
-Rozario Diego
-Santa Cruz Clara
-Thomas Mondrake
-Tina Thomas
+4.
+Name	
+Augustine Paul	
+David Love	
+Harold Pawlan	
+Jasmine Frank	
+Lazar Mathew	
+Pete Zachariah	
+Roger Terrence	
+Rozario Diego	
+Santa Cruz Clara	
+Thomas Mondrake	
+Tina Thomas	
 
-4. 
+5.
 TotalGrandTotal
-7494195
-
-5. 
-CampaignName
-Campaign Report Software
-Campaign Dashboards - kpi
-Campaign LP - BizIntel Tool Online
-Campaign Create Dashboards
-Campaign Dashboard - Software
-Campaign Reporting
-Campaign LP - BI Tool Online
-Campaign Dashboards - online
-Campaign Cloud BI
-Campaign Dashboards - 2
-Campaign Dashboard - Analysis
-Campaign Managed Placements
-Campaign OEM Reporting
-Campaign Make Dashboards
-Campaign Free Dashboard Software
-Campaign Sales #4
-Campaign Sales #3
-Campaign Business Intelligence Services
-Campaign Dashboards - Image Ads
-Campaign OEM Reporting #2
-Campaign DB Reporting
-Campaign Dashboards - best
-Campaign Dashboards - business intelligence
-Campaign Business Intelligence Service [Truncated]
+7494195	
 
 6.
-subject
-ZR-48659-Barcelona Chair (Aniline Black)
-ZR-48721-Barcelona Chair (Italian Black)
-ZR-48688-Barcelona Chair (Italian Choc Brown)
-ZR-48720-Shell chiar (Italian black with walnut)
-ZR-48687-LC3 Sofa (Italian Black)
-ZR-1695-ZIGZAG CHAIR
-ZR-48755-Eileen Grey End Table (Stainless Steel - ...
-ZR-48663-Barcelona Chair and Ottoman (Aniline Red)
-ZR-48784-Barcelona Loveseat (Italian Black)
-ZR-48845-Barcelona Daybed (Italian Black)
-ZR-51509-Barcelona ottoman only (aniline camel)
-ZR-50708-Eames Soft Pad Low Back Chair (Aniline Br...
-ZR-49617-Saarinen Chair (Italain White)
-ZR-49775-Barcelona Style Coffee Table (3/4 glass)
-ZR-50585-Barcelona Loveseat (Italian Black)
-ZR-48631-Barcelona Chair (Italian Camel)
-ZR-50554-Barcelona Style Coffee Table (3/4 glass)
-ZR-48842-Eames Lounge Chair with Ottoman (Italian ...
-ZR-50550-Barcelona Chair (Italian Choc Brown)
-ZR-50547-Barcelona Loveseat (Italian White)
-ZR-50678-Barcelona Chair (Italian Black)
-ZR-49621-Barcelona Daybed (Aniline Black)
-ZR-49715-Barcelona Bench A (Italian White)
-ZR-50646-Barcelona Chair and Ottoman (Italian Blac...
+campaignname	
+Campaign Report Software	
+Campaign Dashboards - kpi	
+Campaign LP - BizIntel Tool Online	
+Campaign Create Dashboards	
+Campaign Dashboard - Software	
+Campaign Reporting	
+Campaign LP - BI Tool Online	
+Campaign Dashboards - online	
+Campaign Cloud BI	
+Campaign Dashboards - 2	
+Campaign Dashboard - Analysis	
+Campaign Managed Placements	
+Campaign OEM Reporting	
+Campaign Make Dashboards	
+Campaign Free Dashboard Software	
+Campaign Sales #4	
+Campaign Sales #3	
+Campaign Business Intelligence Services	
+Campaign Dashboards - Image Ads	
+Campaign OEM Reporting #2	
+Campaign DB Reporting	
+Campaign Dashboards - best	
+Campaign Dashboards - business intelligence	
+Campaign Business Intelligence Service	
+Campaign Business Intelligence Software...[Truncated]
+
+7.
+subject	
+ZR-48659-Barcelona Chair (Aniline Black)	
+ZR-48721-Barcelona Chair (Italian Black)	
+ZR-48688-Barcelona Chair (Italian Choc Brown)	
+ZR-48720-Shell chiar (Italian black with walnut)	
+ZR-48687-LC3 Sofa (Italian Black)	
+ZR-1695-ZIGZAG CHAIR	
+ZR-48755-Eileen Grey End Table (Stainless Steel - ...	
+ZR-48663-Barcelona Chair and Ottoman (Aniline Red)	
+ZR-48784-Barcelona Loveseat (Italian Black)	
+ZR-48845-Barcelona Daybed (Italian Black)	
+ZR-51509-Barcelona ottoman only (aniline camel)	
+ZR-50708-Eames Soft Pad Low Back Chair (Aniline Br...	
+ZR-49617-Saarinen Chair (Italain White)	
+ZR-49775-Barcelona Style Coffee Table (3/4 glass)	
+ZR-50585-Barcelona Loveseat (Italian Black)	
+ZR-48631-Barcelona Chair (Italian Camel)	
+ZR-50554-Barcelona Style Coffee Table (3/4 glass)	
+ZR-48842-Eames Lounge Chair with Ottoman (Italian ...	
+ZR-50550-Barcelona Chair (Italian Choc Brown)	
+ZR-50547-Barcelona Loveseat (Italian White)	
+ZR-50678-Barcelona Chair (Italian Black)	
+ZR-49621-Barcelona Daybed (Aniline Black)	
+ZR-49715-Barcelona Bench A (Italian White)	
+ZR-50646-Barcelona Chair and Ottoman (Italian Blac...	
 ZR-48786-Barcelona Chair and Ottoman (Italian Came...[Truncated]
+
+8.
+ProductName   	Quantity	NetTotal	PURCHASEORDERID	
+A/C EvaporatorBearings    Ball joint	8	9082.599	17000084	
+Adjusting mechanism (adjuster star wheel)	2	951.785	17001119	
+Aerodynamic Nose Cone	10	10093.944	17001197	
+alloy	4	4881.488	17001336	
+ash	8	7982.81	17000046	
+ash	8	7285.283	17000698	
+Asha 201	4	4495.362	17000546	
+axe product	2	3167.574	17001099	
+Band-aids / Medical	8	7465.947	17000139	
+Barbecue grill	1	1639.207	17001333	
+Bath soap / Hand soap	8	14353.975	17000609	
+bathroom product	10	1350.69	17000668	
+Batillum	4	6514.487	17000816	
+Battery cable	10	5594.221	17000185	
+Battery tray	7	6245.237	17000905	
+bedside table	5	7062.823	17000071	
+Black pepper	5	6781.785	17000030	
+Bleed nipple	9	11778.21	17001443	
+Blu-ray player	6	1990.93	17000870	
+Bonox	10	12704.495	17001276	
+bookcase	3	5204.045	17000828	
+Brake backing pad	2	3114.284	17000449	
+Brake piston	8	3714.986	17001234	
+Brake pump	7	11176.824	17001481	
+Brasero (heater)	7	9776.69	17000314...[Truncated]
+
+9.
+LEADID	LeadSource	LeadStatus	COUNT(LeadStatus)	
+2053	Advertisement	Attempted to Contact	52	
+2722	Advertisement	Contact in Future	71	
+3344	Advertisement	Contacted	86	
+3352	Cold Call	Contact in Future	80	
+1774	Cold Call	Junk Lead	39	
+2047	Cold Call	Lost Lead	43	
+2062	Employee Referral	Attempted to Contact	53	
+2731	Employee Referral	Contact in Future	97	
+3985	Employee Referral	Not Contacted	45	
+3539	External Referral	Attempted to Contact	32	
+3311	External Referral	Contact in Future	79	
+3358	External Referral	Contacted	70	
+1741	External Referral	Lost Lead	47	
+3319	External Referral	Pre Qualified	77	
+2728	Online Store	Contacted	73	
+3447	Online Store	Lost Lead	44	
+3355	Online Store	Pre Qualified	75	
+2116	Partner	Attempted to Contact	32	
+2070	Partner	Junk Lead	34	
+2058	Partner	Not Contacted	29	
+3309	Public Relations	Attempted to Contact	36	
+2050	Public Relations	Contact in Future	79	
+3326	Public Relations	Junk Lead	41	
+2038	Public Relations	Lost Lead	33	
+3994	Public Relations	Not Contacted	38...[Truncated]
+
+10.
+LeadSource	CONVERTED	INVOLVED	
+Advertisement	384	92	
+Cold Call	386	110	
+Employee Referral	414	114	
+External Referral	359	74	
+Online Store	344	84	
+Partner	362	92	
+Public Relations	334	80	
+Sales Mail Alias	347	79	
+Trade Show	344	85	
+Web Research	358	83	
+
+11.
+Type	COUNT(DISTINCT l.LEADID)	
+Advertisement	971	
+Conference	1268	
+Direct mail	1304	
+Email	1587	
+Others	579	
+Partners	1254	
+Public Relations	1558	
+Referral Program	937	
+Telemarketing	983	
+Webinar	1038	
+
+12.
+CaseOwner	I	II	
+Augustine Paul	33	19	
+David Love	17	35	
+Harold Pawlan	19	23	
+Jasmine Frank	32	26	
+Lazar Mathew	38	17	
+Pete Zachariah	18	10	
+Roger Terrence	28	21	
+Rozario Diego	24	13	
+Santa Cruz Clara	13	13	
+Thomas Mondrake	40	34	
+Tina Thomas	46	29
+
+13.
+LeadSource	LEADSCOUNT	CONVERTEDLEAD	CONVERSIONPERCENT	
+Advertisement	412	384	93.2039	
+Cold Call	408	386	94.6078	
+Employee Referral	449	414	92.2049	
+External Referral	383	359	93.7337	
+Online Store	370	344	92.9730	
+Partner	386	362	93.7824	
+Public Relations	366	334	91.2568	
+Sales Mail Alias	371	347	93.5310	
+Trade Show	371	344	92.7224	
+Web Research	384	358	93.2292
+
+14.
+USER_ID	VendorOwner	COUNT(t.TaskOwner)	
+1010	Augustine Paul	32	
+1007	David Love	49	
+1006	Harold Pawlan	7185	
+1005	Jasmine Frank	56	
+1003	Lazar Mathew	294	
+1004	Pete Zachariah	16	
+1008	Roger Terrence	3690	
+1001	Rozario Diego	1602	
+1002	Santa Cruz Clara	3091	
+1009	Thomas Mondrake	66	
+1011	Tina Thomas	34	
+
+15.
+Stage	AVGDURATION	
+Closed Lost	0.0000	
+Closed Won	0.0000	
+Initial Offer	281.9293	
+Needs Analysis	239.2331	
+Negotiation/Review	283.3594	
+Proposal/Price Quote	265.0074	
+Prospect	341.3061	
+Qualification	239.3696
+
+16.
+STAGE	OPENPOTENTIAL	
+Closed Lost	0	
+Closed Won	0	
+Initial Offer	283	
+Needs Analysis	296	
+Negotiation/Review	64	
+Proposal/Price Quote	136	
+Prospect	245	
+Qualification	698
+
+17.
+LeadOwner	LEADCOUNT	CONVERTEDLEAD	WONDEAL	LOSTDEAL	
+Augustine Paul	116566	105544	47813	16054	
+David Love	105878	97319	37408	14696	
+Harold Pawlan	129778	123532	47872	14586	
+Jasmine Frank	134602	127254	58838	15717	
+Lazar Mathew	113750	105625	46200	12250	
+Pete Zachariah	97776	91374	39648	15120	
+Roger Terrence	100345	91195	36190	11844	
+Rozario Diego	116123	107046	45633	20405	
+Santa Cruz Clara	121342	113085	45968	13520	
+Thomas Mondrake	130986	123120	51322	18384	
+Tina Thomas	121545	115705	49617	19314
+
+18.
+Status    CreatedTime       Discount
+Approved	23-03-2021 02:30	67.83	
+
+19.
+Status	MAX(DaysToClosed)	
+Closed	98	
+Escalated	93	
+Closed	98	
+On Hold	86	
+On Hold	98	
+
+20.
+AVG(AMOUNT) MAX(AMOUNT) MIN(AMOUNT) SUM(AMOUNT)
+61468.75	  99800.00	   10900.00	   983500
+
+21.
+tax	
+0	
+539.066	
+1.1	
+291.885	
+129.536	
+458.964	
+122.683	
+188.001	
+580.415	
+75.416	
+2.2	
+1.1	
+160.996	
+1.1	
+160.996	
+991.463	
+249.986	
+449.581	
+188.936	
+259.149	
+1.1	
+799.931	
+636.174	
+186.989	
+420.024	
+
+22.
+accountOwnerId		
+1000	
+1000	
+1000	
+1000	
+1000	
+1000	
+1000	
+1000	
+1000	
+1005	
+1003	
+1002	
+1003	
+1003	
+1010	
+1007	
+1002	
+1008	
+1002	
+1011	
+1010	
+1010	
+1004	
+1001
+
+23.
+CaseOwner	
+Case Owner	
+Lazar Mathew	
+Augustine Paul	
+Lazar Mathew	
+Pete Zachariah	
+Thomas Mondrake	
+Tina Thomas	
+David Love	
+Thomas Mondrake	
+Thomas Mondrake	
+Thomas Mondrake	
+Thomas Mondrake	
+Harold Pawlan	
+David Love	
+Jasmine Frank	
+Pete Zachariah	
+Lazar Mathew	
+Roger Terrence	
+Tina Thomas	
+Santa Cruz Clara	
+Harold Pawlan	
+Jasmine Frank	
+Harold Pawlan	
+Augustine Paul	
+Thomas Mondrake	
+
+24.
+TaskOwner	
+Rozario Diego	
+Harold Pawlan	
+
+
+
+
+
+
+
+
+
