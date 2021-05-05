@@ -12,7 +12,7 @@ https://www.apachefriends.org/download.html
 
 Tutorial for downloading xampp:-https://www.youtube.com/watch?v=N6ENnaRotmo
 
-#STEPS TO SET UP DATABASE:-
+# STEPS TO SET UP DATABASE:-
 
 1.Install XAMPP server on your system using the links given above, if you haven't done so already.This is essential for your project.
 2.If XAMPP server has been installed,click on Start and search for XAMPP.
