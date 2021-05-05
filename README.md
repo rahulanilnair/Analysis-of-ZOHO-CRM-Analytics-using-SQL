@@ -28,5 +28,5 @@ Tutorial for downloading xampp:-https://www.youtube.com/watch?v=N6ENnaRotmo
 
 # ER DIAGRAM FOR DATABASE
 
-
+https://raw.githubusercontent.com/rahulanilnair/RA1911042010113-RA1911042010114-RA1911042010117-RA1911042010122-RA1911042010124/main/ERDDiagram1.jpg
 
