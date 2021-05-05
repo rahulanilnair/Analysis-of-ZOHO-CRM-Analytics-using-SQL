@@ -57,4 +57,15 @@
 	(l.LEADID=p.LEADID) 
 	GROUP BY LeadSource HAVING LeadSource<>'Lead Source'
 	
-11.
+11.Counting the number of leads involved in each campaign.
+	SELECT ca.Type,COUNT(DISTINCT l.LEADID) from campaigns ca 
+	JOIN campaign_lead_status cl ON (ca.CampaignName=cl.CampaignName) 
+	JOIN leads l ON (cl.LeadLastName=l.LastName) 
+	GROUP BY ca.Type HAVING ca.Type<>'Type';
+	
+12.Count the no. of open cases in each age tier for each case owner
+	SELECT CaseOwner,COUNT(CASE WHEN STATUS<>'Çlosed' AND AgeTier='1. 0 - 60 days' THEN 1 END) AS I,
+	COUNT(CASE WHEN STATUS<>'Closed' AND AgeTier='2. 61 - 120 days' THEN 1 END) AS II 
+	from cases GROUP BY CaseOwner HAVING CaseOwner<>'Case Owner';
+	
+13.
