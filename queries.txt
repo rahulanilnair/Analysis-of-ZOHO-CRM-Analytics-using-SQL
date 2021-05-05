@@ -121,12 +121,12 @@
 
 
 23.List the Case Owners names  not having age in days as 10,30, or 40.
-         SELECT CaseOwner FROM cases 
+         SELECT DISTINCT CaseOwner FROM cases 
          WHERE NOT AgeInDays='30'AND 
          NOT AgeInDays='40'AND NOT AgeInDays='10';
 
 24.List names of those TaskOwners who  joined between 30 Aug 81 and 31 oct 81.
-         SELECT TaskOwner FROM tasks
+         SELECT DISTINCT TaskOwner FROM tasks
          WHERE DueDate 
          BETWEEN '30-Aug81' AND '31-Oct-81'
 
