@@ -416,8 +416,149 @@ TASKID	Call Start Time
 4000272	2021-04-14 07:03:00	
 ...[Truncated]
 
+28. 
+QUOTEID    SUBJECT                                QUOTEOWNER   QuoteStage
+19000435 ZR-48659-Barcelona Chair (Aniline Black) Lazar Mathew Confirmed
+19002131  ZR-48721-Barcelona Chair (Italian Black)Harold Pawlan Confirmed
+19002844 ZR-48845-Barcelona Daybed (Italian Black) David Love  Confirmed
+19000989 ZR-49775-Barcelona Style Coffee Table (3/4 glass) Augustine PaulClosed Won
+19000381 ZR-48842-Eames Lounge Chair with Ottoman (Italian ... Jasmine Frank Confirmed
+19002111 ZR-50678-Barcelona Chair (Italian Black) Tina Thomas Closed Won
+19002902 ZR-51696-Barcelona Chair and Ottoman (Italian Whit... Pete Zachariah Closed Won
+19002663 ZR-49686-Barcelona Chair (Italian White) David Love Confirmed
+19000744 ZR-53433-LC2 Chair (Aniline Choc Brown) Santa Cruz Clara Confirmed
+19002012 ZR-1509505-Barcelona Bench C (Italian White) Augustine Paul Confirmed
+19001794 ZR-1507610-Barcelona Loveseat (Italian Black) Roger Terrence Closed Won
+19001672 ZR-49655-Eames Lounge Chair with Ottoman (Aniline ... Pete ZachariahClosed Won
+19000614 ZR-1509378-Eames Lounge Chair with Ottoman (Anilin... Santa Cruz Clara Confirmed
+19000311 ZR-49648-Barcelona Chair (Italian Black) Roger Terrence Confirmed
+19002193 ZR-1507554-Knoll Sofa (Aniline White) David Love Confirmed
+19000119 ZR-51540-Barcelona Style Coffee Table (3/4 glass) Lazar Mathew Closed Won
+19002564 ZR-52596-Noguchi Coffee Table (Black Wood) Tina Thomas Closed Won
+19002165 ZR-1759-Barcelona Chair (Italian Ivory) Pete Zachariah Closed Won
+19001688 ZR-50614-Barcelona Chair and Ottoman (Aniline Blac... Tina Thomas Confirmed
+19002317 ZR-54613-Barcelona Ottoman Only (Aniline Ivory) Augustine Paul Confirmed
+19002322 ZR-54612-Barcelona ottoman only (aniline white) Santa Cruz Clara Confirmed
+19002070 ZR-50740-Barcelona Chair (Italian Black) Tina Thomas Confirmed
+19001465 ZR-50554-Barcelona Chair and Ottoman (Italian Whit... Jasmine Frank Closed Won
+19000134 ZR-1538175-Barcelona Chair (Italian Red) Roger Terrence Closed Won
+19001871 ZR-1510404-Barcelona Chair (Italian White) Santa Cruz Clara Closed Won
 
+29.
+caseowner status caseorigin
+Lazar Mathew Closed Email
+Augustine Paul Closed Phone
+Lazar Mathew Closed Phone
+Thomas Mondrake Closed Phone
+Tina Thomas Closed Email
+David Love Closed Email
+Thomas Mondrake Closed Email
+David Love  Closed Email
+Jasmine Frank Closed Social Media
+Roger Terrence Closed Email
+Tina Thomas Closed Social Media
+Roger Terrence Closed Phone
+Thomas Mondrake Closed Social Media
+Thomas Mondrake Closed Web
+Tina Thomas Escalated Phone
+Tina Thomas Escalated Email
+Tina Thomas On Hold Social Media
+Roger Terrence On Hold Social Media
+Augustine Paul On Hold Web
+Jasmine Frank Escalated Social Media
+Jasmine Frank Escalated Email
+Lazar Mathew Closed Social Media
+Tina Thomas Escalated Other
+Augustine Paul Closed Email
+Jasmine Frank Escalated Social Media
 
+30. lastname
+Mason
+Mask
 
+31.ProductName bookid Ascending 1
+Asha 501        24000001
+Worcestershire sauce 24000001
+Clutch lining 24000001
+Allergy 24000001
+jumper 24000001
+Door switch 24000002
+saw 24000002
+Fish tape 24000002
+Leaf and parabolic leaf spring 24000002
+Lumia 710 24000002
+OT-505 24000002
+file 24000002
+study product 24000002
+Anchor 24000003
+Pickles 24000003
+coffee table 24000003
+Valve housing 24000003
+Bolt cap 24000003
+earrings 24000003
+Chili night 24000004
+chest of drawers 24000004
+Kitchen 24000004
+TT-38K Radial Decoupler 24000004
+Camshaft pushrod 24000005
+trampoline product 24000005
 
+32. vendorname
+Shui Tom
+Immaculate Anita
+Mary Elizabeth
+Thomas Mondrake
+Venus Powell
+Sheri Gordon
+Jency Johnah
+Venus Powell
+Mike Ballack
+Grace Kelly
+David Flashing
+Dean Jones
+Mary Zewe
+Harold Pawlan
+Lazar Mathew
+Susan Juliet
+Joseph Cairn
+Steve Waugh
+Dean Jones
+Immaculate Anita
+Mathew Reese
 
+33.
+AccountName
+Colonial Stores
+K&G Distributors
+Chase Pitkin
+FlowerTime
+Official All Star CafÌ©
+First Rate Choice
+Red Robin Stores
+Alert Alarm Company
+Matrix Interior Design
+Lechmere
+Big Star Markets
+Price's Electronics
+Cardinal Stores
+Western Auto
+Waves Music
+Destiny Planners
+Locost Accessories
+Stratacard
+Big Wheel
+WWW Realty
+Angel's
+Museum Company
+Luskin's
+Tape World
+Silverwoods
+
+34.PRICEBOOKNAME
+Flat Price Book - Business1
+Flat Price Book - Business6
+
+35.campaignname	
+ NULL
+
+ 
