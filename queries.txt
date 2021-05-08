@@ -146,4 +146,53 @@
           (SELECT Callowner FROM calls 
           WHERE ACCOUNTID BETWEEN 1000 AND 1500)
 	 
+28.list quoteid,SUBJECT,QUOTEOWNER,QuoteStage where status is won and adjustment is between 0.25 and 1
+          SELECT QUOTEID,SUBJECT,QUOTEOWNER,QuoteStage
+          FROM QUOTES 
+          WHERE SalesStatus='WON' 
+          AND ADJUSTMENTS BETWEEN 0.25 AND 1;
+	  
+29 List caseowner,status and caseorigin where age in days greater than 20
+          SELECT caseowner,status,caseorigin 
+          from cases 
+          where AgeInDays>20;
+	  
+30.List last name where name starts from mas
+     SELECT lastname 
+     from contacts 
+     where lastname like 'Mas%';
+     
+31.List Product Name,bookid order by bookid;
+     SELECT ProductName,bookid
+     From sales_order_line_items
+     order by bookid;
+     
+32.List vendorname whose glaccount is sales software
+    SELECT vendorname
+    from vendors
+    where GLAccount='Sales-Software';
+    
+33.List account name where events involved is no and order by accountownerid
+    SELECT AccountName 
+    from accounts 
+    where EventsInvolved='No'
+    order by accountownerid;
+    
+34.List price book name where pricingmodel is flat and price book owner name middle name is in;
+   SELECT PRICEBOOKNAME 
+   FROM price_books
+   WHERE PRICINGMODEL='FLAT' 
+   AND PriceBookOwner LIKE '%in%'
+   
+35.list camapaign name where status is planning and end date is between 05 may 2020 and 5 may 2021;
+       SELECT campaignname 
+       from campaigns
+       WHERE Status='planning' 
+       and enddate BETWEEN 2020-05-05 and 2021-05-05
+   
+   
+   
+
+
+	 
 
